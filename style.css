@@ -1,0 +1,97 @@
+ h1#main{
+   text-align: center;
+    letter-spacing: 10px;
+    font-family: 'Amatic SC';font-size: 55px;
+}
+
+
+
+img#main_foto  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subs{
+    font-family: 'Amatic SC'; font-size: 25px;
+    color:white;
+    letter-spacing: 3px;
+    text-decoration: underline ;
+}
+
+.rectangle{
+    border:double white 10px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    width: fit-content ;
+    border-spacing: 15px;
+    background-color:#84B2D1;
+   
+    
+}
+
+.cute{
+
+    border: 2px rebeccapurple solid;
+    border-radius: 50%;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    width: fit-content;
+    align-content: center; 
+    text-align: center;
+    background-color:#AEEBEB;
+    color: #5073EB;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+body{
+    background-color:#CCEBEB ;
+    font-family: 'Comfortaa'
+}
+
+.rectangle2{
+    border:double white 10px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    width: fit-content ;
+    border-spacing: 15px;
+    background-color:#84B2D1;
+    position: sticky;
+    left: 1000px;
+    bottom: 0px;
+    
+    
+    
+}
+
+.rectangle3{
+    color: white;
+    font-family: 'Amatic SC'; font-size: 25px;
+    border:double white 10px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    width: fit-content ;
+    border-spacing: 15px;
+    background-color:#84B2D1;
+    position: sticky;
+    left: 0px;
+    bottom: 0px;
+    opacity: 0.7;
+    
+    
+}
+
+.none {
+    display: none;
+}
